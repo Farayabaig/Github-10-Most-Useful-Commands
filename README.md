@@ -1,5 +1,6 @@
 # Streamlining Your Development Process with 10 Must-Know GitHub Commands
 
+![image](https://user-images.githubusercontent.com/95959167/218810704-bb3a993b-893e-4a7b-808b-3ce7273f09b2.png)
 GitHub is a powerful platform for hosting, sharing, and collaborating on software projects. As a developer, you may find yourself using GitHub on a regular basis to manage your code and collaborate with others. Learning GitHub early on is beneficial for developers because:
 •	GitHub is a popular platform for collaboration, making it easier for developers to work with others on a project.
 
